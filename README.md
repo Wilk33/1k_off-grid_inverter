@@ -144,10 +144,16 @@ Projekt mechaniczny obejmuje:
 
 ```
 hardware/ 
-    dcdc_converter 
-    drivers 
-    inverter 
-    measurements
+    dcdc_converter/
+    drivers/
+    inverter/
+    measurements/
+
+firmware/
+    mcu_control/
+    pwm_generation/
+    measurements/
+    protection/
 ```
 
 ---
