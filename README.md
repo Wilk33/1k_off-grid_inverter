@@ -143,7 +143,11 @@ Projekt mechaniczny obejmuje:
 # Struktura repozytorium
 
 ```
-
+hardware/ 
+    dcdc_converter 
+    drivers 
+    inverter 
+    measurements
 ```
 
 ---
