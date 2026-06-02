@@ -1,0 +1,40 @@
+# PlatformIO
+**/.pio/
+.pio/
+
+# Python virtual environments
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# VSCode
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ESP-IDF
+sdkconfig
+sdkconfig.old
+build/
+**/build/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+# System
+Thumbs.db
+Desktop.ini
+
+# KiCad backups
+*-backups/
+*.kicad_pcb-bak
+*.bak
+
+# History/cache
+.history/
+**/.history/
