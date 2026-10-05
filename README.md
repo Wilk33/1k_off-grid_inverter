@@ -1,5 +1,10 @@
 # Off-Grid 1kW Inverter (24V DC -> 230V AC)
 
+> [!IMPORTANT]
+> **Projekt został zamknięty i nie będzie dalej rozwijany.**
+>
+> Repozytorium pozostaje archiwum dotychczasowego kodu i dokumentacji. Nie są planowane kolejne etapy, poprawki ani nowe wydania.
+
 Projekt przetwornicy off-grid o mocy 1 kW przeznaczonej do konwersji napięcia z instalacji 24V DC na napięcie sieciowe 230V AC 50Hz.
 Urządzenie składa się z dwóch głównych stopni konwersji energii:
 
@@ -171,3 +176,11 @@ firmware/
 # Licencja
 
 Projekt open hardware / open source.
+
+---
+
+# Autorstwo i status
+
+Projekt był tworzony przez Codex GPT-5.6-Sol pod kierunkiem Mateusza Skipora, na podstawie jego wymagań i decyzji projektowych.
+
+Status końcowy: projekt zamknięty, bez dalszego rozwoju.
